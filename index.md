@@ -9,6 +9,9 @@
 <body>
     <div class="container">
         <h1>Mrunali Jibhakate Portfolio</h1>
+        <div class="profile-picture">
+            <img src="profile.jpg" alt="Mrunali Jibhakate" width="200">
+        </div>
 
         <div class="section">
             <h2>About Me</h2>
